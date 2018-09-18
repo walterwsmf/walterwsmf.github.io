@@ -1,0 +1,44 @@
+url: https://walterwsmf.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Walter Martins-Filho
+email: walterwsmf@outlook.com
+description: "This is my personal website (in construction...)"
+
+
+# Team names, titles and social links
+people:
+- name: Walter Silva Martins Filho
+  pic: 1
+  position: Astronomer and Data Scientist
+  social:
+    - title: twitter
+      url: https://twitter.com/walterwsmf
+    - title: facebook
+      url: https://www.facebook.com/walterwsmf
+    - title: LinkedIn
+      url: https://www.linkedin.com/in/walterwsmf/
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/walterwsmf
+  - title: facebook
+    url: https://www.facebook.com/walterwsmf
+  # - title: stack-overflow
+  #   url: 
+  # - title: bitbucket 
+  #   url: 
+  - title: github
+    url: http://github.com/walterwsmf
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Rio de Janeiro, RJ
+  - line: Brazil
+
+# Build settings
+markdown: kramdown
+permalink: pretty
