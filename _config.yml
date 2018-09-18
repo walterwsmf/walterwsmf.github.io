@@ -7,16 +7,16 @@
 
 # Site settings
 title: Walter Martins-Filho
-email: waltersmartinsf@gmail.com
+email: walterwsmf@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
   Aqui vocês poderam encontrar um pouco sobre minha carreira, projetos, textos e meu blog pessoal. Meu nome é Walter Martins Filho, sou astrônomo formado pela Universidade Federal do Rio de Janeiro (2012), mestrado(2015) e doutorado (em processo) pelo Observatório Nacional.
 
   Here, you will find a little about my career, projects, articles and my personal blog.
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "br"
-url: "http://waltersmartinsf.github.io" # the base hostname & protocol for your site
+url: "http://walterwsmf.github.io" # the base hostname & protocol for your site
 twitter_username: walterwsmf
-github_username:  waltersmartinsf
+github_username:  walterwsmf
 # disqus_username:
 
 # Build settings
