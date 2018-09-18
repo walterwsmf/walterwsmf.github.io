@@ -10,3 +10,4 @@ tags: ['Post']
 author: Walter Martins-Filho
 ---
 
+[Créditos da imagem "Oh Man"](https://br.pinterest.com/pin/411516484692523728/?lp=true)
